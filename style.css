@@ -16,7 +16,7 @@
 }
 
 .mainCharacterView{
-    
+
 width: 50%;
 display: flex;
 flex-direction: column;
@@ -32,7 +32,7 @@ align-items: center;
 
 .nameBox{
     border: 1px solid black;
-    width: 15vw;
+    width: 25vw;
     height: 10vh;
     text-align: center;
     display: flex;
@@ -46,7 +46,7 @@ align-items: center;
     border: 1px solidblack;
     width: 30vw;
     height: 40vh;
-    background-image: url("/space_hero.gif");
+    background-image: url("/images/space_hero.gif");
     background-size: cover ;
     background-position: center;
     background-repeat: no-repeat;
@@ -73,7 +73,7 @@ align-items: center;
     border: 1px solidblack;
     width: 30vw;
     height: 35vh;
-    background-image: url("/enemy.gif");
+    background-image: url("/images/enemy.gif");
     background-size: cover ;
     background-position: center;
     background-repeat: no-repeat;
